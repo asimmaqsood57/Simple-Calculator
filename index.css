@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+
+    /* border: 2px solid red; */
+    padding: 2rem;
+    padding-bottom: 0rem;
+
+}
+.calculator{
+
+    border: 2px solid blue;
+}
+
+.center{
+    text-align: center;
+}
+
+.input{
+
+    width: 10rem;
+}
+
+.btn{
+
+    width:4rem;
+    margin: 1rem;
+
+}
+
+.keys{
+
+    border: 2px solid green;
+    padding: 2rem;
+    width: max-content;
+    margin: auto;
+}
+
+
